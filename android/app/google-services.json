@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "784777580112",
+    "project_id": "barista-af1f0",
+    "storage_bucket": "barista-af1f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784777580112:android:dbe66d697c8d489db98b55",
+        "android_client_info": {
+          "package_name": "com.barista.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784777580112-4rddg1g8o4lmddlhvqu7ne8vr177vkmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaA08FftveG4weEHnJeLSfBI33hUMU32s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784777580112-4rddg1g8o4lmddlhvqu7ne8vr177vkmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784777580112:android:bab994fe26fb1857b98b55",
+        "android_client_info": {
+          "package_name": "com.barista777.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784777580112-4rddg1g8o4lmddlhvqu7ne8vr177vkmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaA08FftveG4weEHnJeLSfBI33hUMU32s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784777580112-4rddg1g8o4lmddlhvqu7ne8vr177vkmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
